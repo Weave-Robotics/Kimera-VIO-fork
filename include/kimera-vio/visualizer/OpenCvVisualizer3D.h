@@ -28,6 +28,7 @@
 
 #include <opencv2/opencv.hpp>
 #include <opencv2/viz/types.hpp>
+#include <opencv2/viz/viz3d.hpp>
 
 #include "kimera-vio/backend/VioBackend-definitions.h"
 #include "kimera-vio/frontend/MonoVisionImuFrontend-definitions.h"

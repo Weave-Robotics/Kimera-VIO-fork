@@ -22,6 +22,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <random>
+#include <opencv2/viz/viz3d.hpp>
 
 #include "kimera-vio/frontend/Camera.h"
 #include "kimera-vio/frontend/CameraParams.h"

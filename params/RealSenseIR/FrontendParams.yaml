@@ -64,7 +64,7 @@ ransac_randomize: 0
 min_intra_keyframe_time: 0.1
 max_intra_keyframe_time: 10.0
 max_disparity_since_lkf: 200
-minNumberFeatures: 0
+minNumberFeatures: 100
 useStereoTracking: 1
 disparityThreshold: 0.5
 # Type of optical flow predictor to aid feature tracking:
